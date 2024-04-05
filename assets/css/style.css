@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;    
+}
+
+nav,#paymet{
+    background-color: #28A745;
+}
+
+footer{
+    display: flex;
+    margin: 0 auto;
+    margin: 1.5em;
+    font-size: 1em;
+    flex-flow: column wrap;
+    align-content: center;
+}
+
+.footer_box{
+    text-align: center;
+    color: white;
+}
